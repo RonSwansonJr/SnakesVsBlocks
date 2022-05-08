@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="Game" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="sample" source="1.8" sourcefiles="src/MyTimer.java,src/Snake.java,src/Blocks.java,src/Gameplay.java,src/Score.java,src/Coin.java,src/Token.java,src/TableController.java,src/Database.java,src/Destroy.java,src/Collision.java,src/Products.java,src/Magnet.java,src/trial.java,src/Shield.java,src/Leaderboard.java,src/man.java,src/Controller1.java,src/Spawn.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
